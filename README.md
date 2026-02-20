@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Wiveu Logo" width="120" />
+  <img src="images/logo-wiveu.png" alt="Wiveu Logo" width="120" />
 </p>
 
 <h1 align="center">PRD — Claude Code Skill</h1>
