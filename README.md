@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="images/logo-wiveu.png" alt="Wiveu Logo" width="120" />
+  <img src="images/logo-wiveu-purple.png" alt="Wiveu Logo" width="120" />
 </p>
 
 <h1 align="center">PRD — Claude Code Skill</h1>
-
-<p align="center">
-  <img src="images/claude.jpeg" alt="Claude Code" width="320" />
-</p>
 
 <p align="center">
   A Claude Code skill that creates production-grade Product Requirements Documents through structured, interview-driven conversations.
